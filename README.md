@@ -14,11 +14,13 @@ Graduates are now finding themselves applying to hundreds — sometimes thousand
 
 While the job market may be tough now, those who embrace new technologies and remain adaptable will be well-positioned to thrive in the evolving world of software development.
 
+### Comment From Sunil Parab
+One rather important takeaway I noticed in this article is the importance of having side projects. At the end of the article it says that ...
+
 ---
+
 ### A Comment from [Kevin Yang]
+Wow, this is a timely and slightly terrifying article choice. Thanks for sharing it! It really captures the anxiety a lot of us are feeling.
 
-Wow, this is a timely and slightly terrifying article choice. Thanks for sharing it! It really captures the anxiety a lot of us are feeling right now.
+What stands out to me is the idea of adaptability. It’s easy to get discouraged by the headlines about AI replacing developers, but this article is a good reminder that we need to be continuous learners. It's not just about the CS fundamentals anymore, but also about embracing these new technologies.
 
-What stands out to me is the idea of adaptability. It’s easy to get discouraged by the headlines about AI replacing developers, but this article hints that the real change might be in *how* we work, not *if* we work. Maybe our value in the future won't just be about writing code from scratch, but more about understanding complex systems, guiding AI tools effectively, and solving problems at a higher level.
-
-It's a good reminder that we need to be continuous learners. It's not just about the CS fundamentals anymore, but also about embracing these new tools and figuring out how to leverage them. It definitely adds another layer to think about as we get ready to enter the job market. Great find!
