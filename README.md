@@ -15,7 +15,7 @@ Graduates are now finding themselves applying to hundreds — sometimes thousand
 While the job market may be tough now, those who embrace new technologies and remain adaptable will be well-positioned to thrive in the evolving world of software development.
 
 ---
-### A Comment from [Your Name]
+### A Comment from [Kevin Yang]
 
 Wow, this is a timely and slightly terrifying article choice. Thanks for sharing it! It really captures the anxiety a lot of us are feeling right now.
 
