@@ -15,8 +15,8 @@ Graduates are now finding themselves applying to hundreds — sometimes thousand
 While the job market may be tough now, those who embrace new technologies and remain adaptable will be well-positioned to thrive in the evolving world of software development.
 
 ### Comment From Sunil Parab
-One rather important takeaway I noticed in this article is the importance of having side projects. At the end of the article it says that ...
 
+One rather important takeaway I noticed in this article is the importance of having side projects. At the end of the article it says that the CS major they mentioned at the start of the article did end up finding a job, even if it wasn't the kind of job she was originially looking for. Thanks to her own side hustle she realized where her true passion was, and did actually find a tech related job. In a time where we're all worried about our potential job prospects it's important to remember that there are options other than just applying for a junior dev position at a random tech company, and that you don't even have to end up working in a heavily CS-related job (even if that does feel scary after all the time you've invested into CS).
 ---
 
 ### A Comment from [Kevin Yang]
